@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RanGuReN
 - 👀 I’m interested in ... Game Development
-- 🌱 I’m currently learning ... C#, Unity, Game Designer
+- 🌱 I’m currently learning ... C#, Unity, Game Designe
 - 💞️ I’m looking to collaborate on ... Artist and Programmer 
 - 📫 How to reach me ... darkwbw@Gmail.com
 
